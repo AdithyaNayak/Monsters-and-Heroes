@@ -1,0 +1,4 @@
+# name,type,level,str,dex,agi,exp
+Karl the Barbarian,WARRIOR,1,30,10,18,0
+Merlin the Wise,SORCERER,1,8,30,12,0
+Lancelot the Holy,PALADIN,1,25,12,15,0

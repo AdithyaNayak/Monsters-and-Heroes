@@ -1,0 +1,7 @@
+# name,price,level,stat,amount
+Health Potion,50,1,HP,40
+Mana Potion, 20,1,MP,30
+Strength Potion,80,2,STR,5
+Dexterity Potion,80,2,DEX,5
+Agility Potion,80,2,AGI,5
+

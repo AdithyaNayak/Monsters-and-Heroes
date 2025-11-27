@@ -1,0 +1,4 @@
+# name,price,level,baseDamage,manaCost,type
+Fireball,120,1,40,20,FIRE
+Ice Spike,150,2,60,30,ICE
+Lightning Bolt,200,3,90,45,LIGHTNING

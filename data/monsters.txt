@@ -1,0 +1,4 @@
+# name,baseDamage,defense,dodge
+Red Dragon,15,10,0.05
+Exoskeletons,10,20,0.05
+Spirit,10,10,0.1

@@ -1,0 +1,4 @@
+# name,price,level,damageReduction
+Leather,80,1,10
+Chain,200,2,25
+Plate,400,3,50

@@ -104,6 +104,26 @@ The `data/` directory contains plain text data files used to populate weapons, a
 
 These files are parsed by `DataLoader.java`.
 
+## Design Patterns
+
+- Factory Pattern
+  - DataLoader:
+      - It loads heroes, monsters, weapons, armors, potions, and spells from text files.
+      - DataLoader acts like a factory because it creates fully constructed objects based on input data.
+        
+  - Prototype Pattern
+    - Hero.clone()
+    - Maintains hero templates (allHeroes) and clones them to create actual playable heroes:
+
+    ```bash
+    Hero template = allHeroes.get(idx);
+    Hero hero = template.clone();
+    ```
+    
+    - Not constructing a new hero from scratch.
+    - You duplicate an existing one.
+
+
 ## Quick gameplay summary
 
 - Choose your party size.
